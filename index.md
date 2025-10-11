@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: Kyler Lin
 ---
 
 ## About Me
@@ -9,8 +9,9 @@ title: <Your Name>
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is Kyler, and I am a sophomore studying Mechanical Engineering with a minor in Robotics at Cornell University. With a strong passion for robotics, CAD design, programming, and circuitry, my interests are driven by the desire to innovate and apply engineering to real-world challenges. 
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+Throughout my academic journey, I’ve gained hands-on experience in designing mechanical systems, developing control algorithms, and integrating hardware with software to create functional prototypes. As a member and leader in various engineering organizations—from my high school robotics team, to research, to my current project team—I’ve learned the importance of teamwork, adaptability, and creative problem-solving when approaching complex technical challenges. My goal is to contribute to the development of technologies that enhance everyday life and push the limits of robotics innovation. Or to just make something that looks cool.
+
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.

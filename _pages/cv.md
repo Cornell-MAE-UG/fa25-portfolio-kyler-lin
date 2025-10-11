@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Kyler Lin - CV
 permalink: /cv/
 ---
 ## Curriculum Vitae
