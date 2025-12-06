@@ -8,30 +8,22 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
-
----
-
-#### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+**Email:** [netID@cornell.edu](mailto:kl998@cornell.edu) | | | **Phone:** (516)920-8424
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
-
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: May, 2028
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **CAD:** Proficient in Onshape, Fusion360; Basic experience with Solidworks
+- **Engineering:** 3D printing, mechanical design and testing; Proficient in engineering design drawings 
+- **Programming Languages:** Proficient in Java, JavaScript, C++, Python
+- **Electrical:** Arduino, sensors 
 
 ---
 
@@ -48,9 +40,9 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 ---
 
-#### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
+#### RELEVANT EXPERIENCE
+- **[Cornell AutoBoat] - Robotics Subteam Member**  
+  [September, 2025] - [Month, Year]  
   - Responsibility 1  
   - Responsibility 2  
 
