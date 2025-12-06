@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Kyler Lin
 description              : Kyler Lin - Projects and CV 
-baseurl                  : "fall-2025-portfolio-Lin"
+baseurl                  : ""
 
 # Theme and Style
 theme: jekyll-theme-minimal
