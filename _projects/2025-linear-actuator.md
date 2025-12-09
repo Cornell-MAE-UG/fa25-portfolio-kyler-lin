@@ -3,7 +3,7 @@ layout: project
 title: Linear Actuator
 description: Just a linear actuator that I sketched
 technologies: Drawing
-image: /assets/images/linear-actuator.jpg
+image: /assets/images/linear-actuator.png
 ---
 
 
