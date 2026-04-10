@@ -4,11 +4,11 @@ title: SLF Prototype
 --- 
 
 
-<p>
-  <b>Table of Contents</b><br>
-  &nbsp;&nbsp;<a href="#client-pitch">Client Pitch</a><br>
-  &nbsp;&nbsp;<a href="#functional-prototype">Functional Prototype</a><br>
-</p>
+<p><b>Table of Contents</b></p>
+<ul>
+  <li><a href="#client-pitch">Client Pitch</a></li>
+  <li><a href="#functional-prototype">Functional Prototype</a></li>
+</ul>
 <hr>
 <h2 id="client-pitch">Client Pitch</h2>
 <p align="center"><b>Problem Statement</b></p>
