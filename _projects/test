@@ -11,6 +11,10 @@ title: SLF Prototype
     border-radius: 6px;
     padding: 1rem 1.5rem;
     margin-bottom: 2rem;
+    width: 110%;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
   }
   .milestone-toc h3 {
     margin: 0 0 0.75rem 0;
@@ -41,7 +45,7 @@ title: SLF Prototype
     border-radius: 6px;
     margin-bottom: 1rem;
     overflow: hidden;
-    width: 90vw;
+    width: 110%;
     position: relative;
     left: 50%;
     transform: translateX(-50%);
