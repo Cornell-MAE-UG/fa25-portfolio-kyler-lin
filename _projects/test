@@ -41,6 +41,10 @@ title: SLF Prototype
     border-radius: 6px;
     margin-bottom: 1rem;
     overflow: hidden;
+    width: 90vw;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
   }
   .accordion-header {
     width: 100%;
@@ -83,16 +87,16 @@ title: SLF Prototype
 <div class="milestone-toc">
   <h3>Project Milestones</h3>
   <ul>
-    <li><a href="#" onclick="openAccordion('client-pitch'); return false;">① Client Pitch <em>(O3)</em></a> — Problem framing &amp; proposed directions</li>
-    <li><a href="#" onclick="openAccordion('functional-prototype'); return false;">② Functional Prototype <em>(O5)</em></a> — Gear-driven nozzle mechanism &amp; test results</li>
-    <li><a href="#" onclick="openAccordion('client-report'); return false;">③ Client Report <em>(Final)</em></a> — Proposed solution, how it works, &amp; next steps</li>
+    <li><a href="#" onclick="openAccordion('client-pitch'); return false;">① Client Pitch</a> — Problem framing &amp; proposed directions</li>
+    <li><a href="#" onclick="openAccordion('functional-prototype'); return false;">② Functional Prototype</a> — Gear-driven nozzle mechanism &amp; test results</li>
+    <li><a href="#" onclick="openAccordion('client-report'); return false;">③ Client Report</a> — Proposed solution, how it works, &amp; next steps</li>
   </ul>
 </div>
 
 <!-- ① Client Pitch -->
 <div class="accordion-item" id="accordion-client-pitch">
   <button class="accordion-header" onclick="toggleAccordion('client-pitch')">
-    ① Client Pitch <span style="font-weight:400; font-size:0.9rem; margin-left:0.5rem;">(O3)</span>
+    ① Client Pitch
     <span class="chevron">▼</span>
   </button>
   <div class="accordion-body" id="client-pitch">
@@ -126,7 +130,7 @@ title: SLF Prototype
 <!-- ② Functional Prototype -->
 <div class="accordion-item" id="accordion-functional-prototype">
   <button class="accordion-header" onclick="toggleAccordion('functional-prototype')">
-    ② Functional Prototype <span style="font-weight:400; font-size:0.9rem; margin-left:0.5rem;">(O5)</span>
+    ② Functional Prototype
     <span class="chevron">▼</span>
   </button>
   <div class="accordion-body" id="functional-prototype">
@@ -284,7 +288,7 @@ title: SLF Prototype
 <!-- ③ Client Report -->
 <div class="accordion-item" id="accordion-client-report">
   <button class="accordion-header" onclick="toggleAccordion('client-report')">
-    ③ Client Report <span style="font-weight:400; font-size:0.9rem; margin-left:0.5rem;">(Final)</span>
+    ③ Client Report
     <span class="chevron">▼</span>
   </button>
   <div class="accordion-body" id="client-report">
